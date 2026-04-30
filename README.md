@@ -12,21 +12,17 @@
 
 ## About the Author | 关于作者
 
-**Hi, I'm Alex (@AlexYoung99)** — founder of an AI startup that has raised millions of dollars in funding.
+**Hi, I'm Alex (@AlexYoung99)** — founder of an AI startup
 
 I distilled this skill from **Wang Huiwen's (王慧文)** legendary Tsinghua product management course — one of the most influential product thinking frameworks in China's tech industry. Wang Huiwen co-founded Meituan (美团, NYSE: MTWOY) and his methodology has shaped how an entire generation of PMs think about markets, scale effects, and product-market fit.
-
-**I've used this skill to research 2 products, generating over 10 million impressions across the internet, and secured investment from top-tier VCs.**
 
 This is the most structured, actionable product research skill available for Claude Code today.
 
 ---
 
-**你好，我是 Alex (@AlexYoung99)** — 一个融资了数百万美金的 AI Startup 创始人。
+**你好，我是 Alex (@AlexYoung99)** — 一个AI Startup 创始人。
 
 这个 Skill 是我从**王慧文**清华产品课中蒸馏出来的产品调研方法论。王慧文是美团联合创始人，他的产品思维框架影响了中国科技行业整整一代产品经理。
-
-**我已经用这个 Skill 调研了 2 个产品，获得了全网超千万次曝光，并成功获得了头部 VC 的投资。**
 
 这是目前 Claude Code 上最结构化、最可执行的产品调研 Skill。
 
