@@ -12,7 +12,7 @@
 
 ## About the Author | 关于作者
 
-**Hi, I'm Alex (@AlexYoung99)** — founder of an AI startup
+**Hi, I'm Alex (@AlexYoung99)** — an ai builder
 
 I distilled this skill from **Wang Huiwen's (王慧文)** legendary Tsinghua product management course — one of the most influential product thinking frameworks in China's tech industry. Wang Huiwen co-founded Meituan (美团, NYSE: MTWOY) and his methodology has shaped how an entire generation of PMs think about markets, scale effects, and product-market fit.
 
